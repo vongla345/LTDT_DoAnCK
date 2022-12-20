@@ -1,0 +1,100 @@
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.exe
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.deps.json
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.runtimeconfig.json
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CopyComplete
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\refint\LTDT_GiaoDien.dll
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\ref\LTDT_GiaoDien.dll
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.MainForm.resources
+C:\Users\Admin\Desktop\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.Properties.Resources.resources
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.exe
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.deps.json
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.runtimeconfig.json
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.dll
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.MainForm.resources
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.Properties.Resources.resources
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.GenerateResource.cache
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfoInputs.cache
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfo.cs
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CopyComplete
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.dll
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\refint\LTDT_GiaoDien.dll
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.genruntimeconfig.cache
+D:\Workspace\Code\C#\GiaoDien\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\ref\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.MainForm.resources
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.Properties.Resources.resources
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\refint\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.exe
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.deps.json
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.runtimeconfig.json
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CopyComplete
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\ref\LTDT_GiaoDien.dll
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.exe
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.deps.json
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.runtimeconfig.json
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.AssemblyReference.cache
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.MainForm.resources
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.Properties.Resources.resources
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.GenerateResource.cache
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfoInputs.cache
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfo.cs
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CopyComplete
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\refint\LTDT_GiaoDien.dll
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.genruntimeconfig.cache
+C:\Users\thaig\Documents\Zalo Received Files\LTĐT_CK\LTĐT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\ref\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.exe
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.deps.json
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.runtimeconfig.json
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.MainForm.resources
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.Properties.Resources.resources
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.csproj.CopyComplete
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\refint\LTDT_GiaoDien.dll
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.pdb
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\LTDT_GiaoDien.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\LTDT_CK\LTDT_CK\LTDT_CK\GiaoDien\LTDT_GiaoDien\obj\Debug\net6.0-windows\ref\LTDT_GiaoDien.dll

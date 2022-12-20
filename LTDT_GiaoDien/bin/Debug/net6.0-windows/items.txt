@@ -1,0 +1,14 @@
+1|A0001|itemName1
+1|A0002|itemName2
+3|A0004|itemName3
+4|A0005|itemName4
+5|A0006|itemName5
+5|A0006.1|itemName6
+5|A0006.2|itemName7
+5|A0006.3|itemName8
+6|A0007|itemName9
+7|A0008|itemName10
+8|A0009|itemName11
+9|A00010|itemName12
+10|A00011|itemName13
+12|SP001|Dầu gội
